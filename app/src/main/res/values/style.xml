@@ -1,0 +1,24 @@
+<resources>
+    <!-- Estilos -->
+    <style name="CalcButton" parent="Widget.AppCompat.Button">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:backgroundTint">#000DFF</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="OperatorButton" parent="CalcButton">
+        <item name="android:backgroundTint">#FFA500</item> <!-- Define a cor de fundo para operadores -->
+    </style>
+
+    <style name="EqualsButton" parent="CalcButton">
+        <item name="android:backgroundTint">#008000</item> <!-- Define a cor de fundo para o botão de igual -->
+    </style>
+
+    <style name="ClearButton" parent="CalcButton">
+        <item name="android:backgroundTint">#FF0000</item> <!-- Define a cor de fundo para o botão de limpar -->
+    </style>
+</resources>
+

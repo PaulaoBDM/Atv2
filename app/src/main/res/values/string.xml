@@ -1,0 +1,25 @@
+
+<resources>
+<string name="button_zero">0</string>
+    <string name="button_um">1</string>
+    <string name="button_dois">2</string>
+    <string name="button_tres">3</string>
+    <string name="button_quatro">4</string>
+    <string name="button_cinco">5</string>
+    <string name="button_seis">6</string>
+    <string name="button_sete">7</string>
+    <string name="button_oito">8</string>
+    <string name="button_nove">9</string>
+
+    <string name="operator_add">+</string>
+    <string name="operator_subtract">-</string>
+    <string name="operator_multiply">X</string>
+    <string name="operator_divide">%</string>
+
+    <string name="button_equals">=</string>
+    <string name="button_clear">Limpar</string>
+
+
+</resources>
+
+
